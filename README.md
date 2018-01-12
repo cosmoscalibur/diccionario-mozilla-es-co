@@ -1,7 +1,9 @@
 # Diccionario Mozilla de Español (Colombia)
 
-Diccionario ortográfico de Español (Colombia) no oficial de los productos de Mozilla.  
-Este diccionario no constituye un diccionario de definiciones sino un diccionario destinado para la corrección ortográfica a través de la utilidad hunspell incluida en los productos de Mozilla.
+Diccionario ortográfico de Español (Colombia) de los productos de Mozilla.  
+Este diccionario no constituye un diccionario de definiciones sino un diccionario destinado para la corrección ortográfica a través de la utilidad hunspell incluida en los productos de Mozilla.  
+
+En la wiki se incorpora información de como usar el diccionario en otras aplicaciones.
 
 ## Desarrollo
 
