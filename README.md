@@ -1,9 +1,8 @@
-# Diccionario Mozilla de Español (Colombia)
+# Diccionario Ortográfico de Español Colombia
 
-Diccionario ortográfico de Español (Colombia) de los productos de Mozilla.  
-Este diccionario no constituye un diccionario de definiciones sino un diccionario destinado para la corrección ortográfica a través de la utilidad hunspell incluida en los productos de Mozilla.  
+Diccionario Ortográfico de Español Colombia provee el complemento de diccionario corrector de ortografía para los productos Mozilla (Firefox, Thunderbird, SeaMonkey) a través de la implementación de hunspell incluida en los productos.  
 
-En la wiki se incorpora información de como usar el diccionario en otras aplicaciones.
+En la [wiki](https://github.com/cosmoscalibur/diccionario-mozilla-es-co/wiki/02-Usar-en-otras-aplicaciones) se incorpora información de como usar el diccionario en otras aplicaciones (en una futura versión se incluirán los compilados de estas opciones).
 
 ## Desarrollo
 
@@ -13,8 +12,8 @@ El número de versión de este diccionario se corresponde con el número de vers
 
 ## Licencia
 
-El diccionario empaquetado se distribuye bajo la licencia Mozilla Public License Version 2.0 (MPL-2.0)
+El diccionario empaquetado se distribuye bajo la licencia [MIT](LICENSE).
 
 ## Mantenedor
 
-El mantenimiento de este diccionario para Mozilla es realizado por Edward Villegas Pulgarin (@cosmoscalibur).
+El mantenimiento de la localización Colombia de este diccionario ortográfico es realizado por Edward Villegas Pulgarin (@cosmoscalibur).
