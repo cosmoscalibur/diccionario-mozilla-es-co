@@ -1,3 +1,9 @@
+# Extensión válida para complemento Mozilla
 *.zip
 *.xpi
+# Extensión del complemento para Vim/NeoVim
+*.spl
+# Extensión del complemento para LO/OO
+*.oxt
+# Directorio de la wiki (repositorio independiente)
 diccionario-mozilla-es-co.wiki/
