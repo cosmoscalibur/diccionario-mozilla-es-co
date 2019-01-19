@@ -16,4 +16,4 @@ El diccionario empaquetado se distribuye bajo la licencia [MIT](LICENSE).
 
 ## Mantenedor
 
-El mantenimiento de la localización Colombia de este diccionario ortográfico es realizado por Edward Villegas Pulgarin (@cosmoscalibur).
+El mantenimiento de la localización Colombia de este diccionario ortográfico es realizado por Edward Villegas Pulgarin ([@cosmoscalibur](https://github.com/cosmoscalibur)).
