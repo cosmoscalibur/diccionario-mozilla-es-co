@@ -1,0 +1,29 @@
+name: rlaes
+channels:
+- default
+- conda-forge
+dependencies:
+- python=3.6.8
+- jupyterlab=0.35.0
+- jupyter_console=6.0.0
+- hunspell=1.7.0 # [not win]
+- gxx_linux-64=7.3.0 # [linux]
+# - clangxx_osx-64=4.0.1 [osx]
+# - mingw=4.7 [win]
+- pip=19.1.1
+- lxml=4.3.3
+- requests=2.22.0
+- beautifulsoup4=4.7.1
+- pandas=0.24.2
+- xlrd=1.2.0
+- shellcheck=0.6.0
+- pylama=7.7.1
+- pylint=2.3.1
+- pydocstyle=3.0.0
+- mypy=0.701
+- zip=3.0
+- unzip=6.0
+- git=2.20.1
+- pip:
+  - hunspell==0.5.5
+  - rae==0.0.9
