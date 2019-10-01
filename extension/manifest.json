@@ -1,1 +1,13 @@
-{"dictionaries": {"es-CO": "dictionaries/es-CO.dic"}, "version": "2.5", "browser_specific_settings": {"gecko": {"id": "es-CO@dictionaries.addons.mozilla.org"}}, "name": "Diccionario Ortográfico de Español Colombia", "manifest_version": 2}
+{
+    "dictionaries": {
+        "es-CO": "dictionaries/es-CO.dic"
+    },
+    "version": "2.5",
+    "applications": {
+        "gecko": {
+            "id": "es-CO@dictionaries.addons.mozilla.org"
+        }
+    },
+    "name": "Diccionario Ortográfico de Español Colombia",
+    "manifest_version": 2
+}
