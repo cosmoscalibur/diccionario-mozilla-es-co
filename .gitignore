@@ -7,3 +7,5 @@
 *.oxt
 # Directorio de la wiki (repositorio independiente)
 diccionario-mozilla-es-co.wiki/
+# Editor
+.vscode
