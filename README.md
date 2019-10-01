@@ -10,9 +10,11 @@ El diccionario está basado en el desarrollado por [Recursos Lingüísticos Abie
 
 El número de versión de este diccionario se corresponde con el número de versión del proyecto RLA-ES.  
 
+En un futuro espero agregar utilidades para automatizar el proceso.
+
 ## Licencia
 
-El diccionario empaquetado se distribuye bajo la licencia [MIT](LICENSE).
+El diccionario empaquetado se distribuye bajo la licencia [MPL 2.0](LICENSE).
 
 ## Mantenedor
 
