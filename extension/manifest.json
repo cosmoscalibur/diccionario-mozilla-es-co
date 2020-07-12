@@ -2,7 +2,7 @@
     "dictionaries": {
         "es-CO": "dictionaries/es_CO.dic"
     },
-    "version": "2.5",
+    "version": "2.6",
     "applications": {
         "gecko": {
             "id": "es-CO@dictionaries.addons.mozilla.org"
