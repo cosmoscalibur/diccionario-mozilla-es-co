@@ -97,12 +97,13 @@ REP os las
 REP os les
 REP os los
 REP os se
-MAP 5
+MAP 6
 MAP aáAÁ
 MAP eéEÉ
 MAP iíIÍ
 MAP oóOÓ
 MAP uúüUÚÜ
+MAP nñNÑ
 PFX a Y 2
 PFX a 0 a [^aeiou]
 PFX a 0 an [aeiou]
@@ -2350,10 +2351,9 @@ SFX G ín inas ín
 SFX G ón onas ón
 SFX G és esas és
 SFX G ós osas ós
-SFX S Y 32
-SFX S 0 s [aceéfgiíkoóptuúw]
-SFX S 0 es [bdhíjlmrúxy]
-SFX S á aes á
+SFX S Y 31
+SFX S 0 s [aáceéfgiíkmoóptuúw]
+SFX S 0 es [bdhíjlrúxy]
 SFX S 0 es [^áeéíóú]n
 SFX S 0 es [^áéíóú]s
 SFX S án anes án
@@ -2823,7 +2823,7 @@ SFX Ë ír yéndonosla oír
 SFX Ë ír yéndonoslo oír
 SFX Ë ír yéndonoslas oír
 SFX Ë ír yéndonoslos oír
-SFX Ì Y 380
+SFX Ì Y 396
 SFX Ì abar ábala abar
 SFX Ì abar ábalas abar
 SFX Ì abar ábalo abar
@@ -2848,10 +2848,10 @@ SFX Ì ajar ájala ajar
 SFX Ì ajar ájalas ajar
 SFX Ì ajar ájalo ajar
 SFX Ì ajar ájalos ajar
-SFX Ì alar álala alar
-SFX Ì alar álalas alar
-SFX Ì alar álalo alar
-SFX Ì alar álalos alar
+SFX Ì alar álela alar
+SFX Ì alar álelas alar
+SFX Ì alar álelo alar
+SFX Ì alar álelos alar
 SFX Ì amar ámala amar
 SFX Ì amar ámalas amar
 SFX Ì amar ámalo amar
@@ -3024,6 +3024,10 @@ SFX Ì evar évala evar
 SFX Ì evar évalas evar
 SFX Ì evar évalo evar
 SFX Ì evar évalos evar
+SFX Ì ibir íbala ibir
+SFX Ì ibir íbalas ibir
+SFX Ì ibir íbalo ibir
+SFX Ì ibir íbalos ibir
 SFX Ì icar ícala icar
 SFX Ì icar ícalas icar
 SFX Ì icar ícalo icar
@@ -3064,6 +3068,10 @@ SFX Ì isar ísala isar
 SFX Ì isar ísalas isar
 SFX Ì isar ísalo isar
 SFX Ì isar ísalos isar
+SFX Ì istrar ístrela istrar
+SFX Ì istrar ístrelas istrar
+SFX Ì istrar ístrelo istrar
+SFX Ì istrar ístrelos istrar
 SFX Ì itar ítala itar
 SFX Ì itar ítalas itar
 SFX Ì itar ítalo itar
@@ -3160,6 +3168,10 @@ SFX Ì ujar újalas ujar
 SFX Ì ujar újala ujar
 SFX Ì ujar újalos ujar
 SFX Ì ujar újalo ujar
+SFX Ì ular úlela ular
+SFX Ì ular úlelas ular
+SFX Ì ular úlelo ular
+SFX Ì ular úlelos ular
 SFX Ì ulsar úlsalas ulsar
 SFX Ì ulsar úlsala ulsar
 SFX Ì ulsar úlsalos ulsar
@@ -3196,6 +3208,10 @@ SFX Ì uscar úscalas uscar
 SFX Ì uscar úscala uscar
 SFX Ì uscar úscalos uscar
 SFX Ì uscar úscalo uscar
+SFX Ì ustar ústela ustar
+SFX Ì ustar ústelas ustar
+SFX Ì ustar ústelo ustar
+SFX Ì ustar ústelos ustar
 SFX Ì utar útalas utar
 SFX Ì utar útala utar
 SFX Ì utar útalos utar
@@ -3204,13 +3220,15 @@ SFX Ì uzar úzalas uzar
 SFX Ì uzar úzala uzar
 SFX Ì uzar úzalos uzar
 SFX Ì uzar úzalo uzar
-SFX Í Y 170
+SFX Í Y 176
 SFX Í abar ábame abar
 SFX Í abar ábanos abar
 SFX Í ablar áblame ablar
 SFX Í ablar áblanos ablar
 SFX Í acar ácame acar
 SFX Í acar ácanos acar
+SFX Í actar áctame actar
+SFX Í actar áctanos actar
 SFX Í agar ágame agar
 SFX Í agar áganos agar
 SFX Í ajar ájame ajar
@@ -3315,6 +3333,8 @@ SFX Í isar ísame isar
 SFX Í isar ísanos isar
 SFX Í itar ítame itar
 SFX Í itar ítanos itar
+SFX Í itir íteme itir
+SFX Í itir ítenos itir
 SFX Í iviar íviame iviar
 SFX Í iviar ívianos iviar
 SFX Í obrar óbrame obrar
@@ -3345,6 +3365,8 @@ SFX Í orrer órreme orrer
 SFX Í orrer órrenos orrer
 SFX Í otar ótame otar
 SFX Í otar ótanos otar
+SFX Í oyar óyame oyar
+SFX Í oyar óyanos oyar
 SFX Í ubir úbeme ubir
 SFX Í ubir úbenos ubir
 SFX Í ucar úcame ucar
@@ -3713,7 +3735,11 @@ SFX Ï urar úraselas urar
 SFX Ï urar úrasela urar
 SFX Ï urar úraselos urar
 SFX Ï urar úraselo urar
-SFX Ð Y 52
+SFX Ð Y 60
+SFX Ð alar álala alar
+SFX Ð alar álalas alar
+SFX Ð alar álalo alar
+SFX Ð alar álalos alar
 SFX Ð egar iégala egar
 SFX Ð egar iégalas egar
 SFX Ð egar iégalo egar
@@ -3766,6 +3792,10 @@ SFX Ð ostrar uéstrala ostrar
 SFX Ð ostrar uéstralas ostrar
 SFX Ð ostrar uéstralo ostrar
 SFX Ð ostrar uéstralos ostrar
+SFX Ð ustar ústala ustar
+SFX Ð ustar ústalas ustar
+SFX Ð ustar ústalo ustar
+SFX Ð ustar ústalos ustar
 SFX Ñ Y 22
 SFX Ñ ecer éceme ecer
 SFX Ñ ecer écenos ecer
@@ -5845,7 +5875,7 @@ SFX ó ormir urmiéndote ormir
 SFX ó r éndome ucir
 SFX ó r éndonos ucir
 SFX ó r éndote ucir
-SFX ô Y 137
+SFX ô Y 138
 SFX ô abar ábate abar
 SFX ô r te [aei]r
 SFX ô acar ácate acar
@@ -5914,6 +5944,7 @@ SFX ô estar éstate estar
 SFX ô eter étete eter
 SFX ô evar évate evar
 SFX ô ever évete ever
+SFX ô ibir íbete ibir
 SFX ô ibrar íbrate ibrar
 SFX ô icar ícate icar
 SFX ô idar ídate idar

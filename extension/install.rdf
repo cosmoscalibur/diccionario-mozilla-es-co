@@ -5,7 +5,7 @@
   <Description about="urn:mozilla:install-manifest">
     <!-- Metadata -->
     <em:id>es-CO@dictionaries.addons.mozilla.org</em:id>
-    <em:version>2.6</em:version>
+    <em:version>2.9rc1</em:version>
     <em:type>64</em:type>
     <em:unpack>true</em:unpack>
     <em:name>Diccionario Ortográfico de Español Colombia</em:name>
