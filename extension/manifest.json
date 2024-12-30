@@ -3,7 +3,7 @@
     "es-CO": "dictionaries/es_CO.dic"
   },
   "version": "2.9",
-  "applications": {
+  "browser_specific_settings": {
     "gecko": {
       "id": "es-CO@dictionaries.addons.mozilla.org"
     }
