@@ -10,7 +10,7 @@
   },
   "name": "Diccionario Ortográfico de Español Colombia",
   "short_name": "Diccionario",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "author": "Edward Villegas-Pulgarin",
   "homepage_url": "https://github.com/cosmoscalibur/diccionario-mozilla-es-co"
 }
